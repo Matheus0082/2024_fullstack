@@ -143,3 +143,6 @@ const fazerLogin = async () => {
     }
 }
 
+async function fazerLogout() {
+    
+}
